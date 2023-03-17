@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #ce8d8d;
+    padding: 50px;
+  }
+  
+  h1 {
+    color: #2c2a2a;
+  }
+  
+  #episode-info {
+    /* border: 1px solid #2E2E2E; */ /* Commented out or deleted */
+    padding: 20px;
+    display: inline-block;
+    margin-bottom: 20px;
+  }
+  
+  
+  #generate-btn {
+    background-color: #2E2E2E;
+    color: #daaaaa;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  #generate-btn:hover {
+    background-color: #776e6e;
+  }
+  border: 1px solid #2E2E2E;
