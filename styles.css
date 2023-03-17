@@ -10,12 +10,10 @@ body {
   }
   
   #episode-info {
-    /* border: 1px solid #2E2E2E; */ /* Commented out or deleted */
     padding: 20px;
     display: inline-block;
     margin-bottom: 20px;
   }
-  
   
   #generate-btn {
     background-color: #2E2E2E;
@@ -29,4 +27,4 @@ body {
   #generate-btn:hover {
     background-color: #776e6e;
   }
-  border: 1px solid #2E2E2E;
+  
